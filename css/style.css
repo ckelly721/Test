@@ -2,7 +2,7 @@ body {
     background:#F4A460;
     font-size: 16px;
     margin:0 auto;
-    width:800px;
+    width:1000px;
 }
 
 table, tr, td, th {
@@ -15,11 +15,13 @@ table, tr, td, th {
 
 .bacon-info {
     padding:10px;
+    line-height:1.35px;
     
 }
 
 .bacon-answer {
     
     font-family: "Georgia", serif;
+    line-height:1.25px;
 }
 
