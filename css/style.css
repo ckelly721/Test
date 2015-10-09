@@ -14,7 +14,7 @@ table, tr, td, th {
 
 .bacon-info {
     padding:10px;
-    line-height:1.5px;
+    word-spacing:1.5px;
 }
 
 .bacon-answer {
